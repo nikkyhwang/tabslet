@@ -11,3 +11,14 @@ body {
 
 /* Your Awesome Scripts */
 
+#tab-1{
+background-color: blue;
+}
+
+#tab-2{
+background-color:goldenrod;
+}
+
+#tab-3{
+  background-color:cadetblue;
+}
